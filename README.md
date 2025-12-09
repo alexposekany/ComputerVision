@@ -8,11 +8,10 @@ Begleitend zur Lehrveranstaltung werden Jupyter Notebooks für die praktischen �
 - Grundlagen der Computer Vision: Beispiel 1
 - Segmentierung: Beispiel 2
 - Feature Matching: Beispiel 3
-- Convolutional Neural Networks: Beispiel 4
-- Machine Learning Grundlagen für Klassifikationen: Beispiel 5
-- YOLO: Beispiel 6
-- 3D Bildverarbeitung in Python: Beispiel 7
-- Augmented Reality: Beispiel 8
+- Convolutional Neural Networks & Machine Learning Grundlagen für Klassifikationen: Beispiel 4
+- HOG & YOLO: Beispiel 5
+- 3D Bildverarbeitung in Python: Beispiel 6
+- Augmented Reality: Beispiel 7
 
 ## Image Sources 
 
