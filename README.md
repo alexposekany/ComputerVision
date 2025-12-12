@@ -20,7 +20,7 @@ Begleitend zur Lehrveranstaltung werden Jupyter Notebooks für die praktischen �
 
 ## Convolutional Neural Networks & Machine Learning Grundlagen für Klassifikationen
 
-- Foliensatz [Slides_CNN_YOLO](Slides_CNN.pdf)
+- Foliensatz [Slides_CNN_YOLO](Slides_CNN_YOLO.pdf)
 - Übung zu Convolutional Neural Networks & Machine Learning Grundlagen für Klassifikationen: Beispiel 4
 - Übung zu HOG & YOLO: Beispiel 5
 
