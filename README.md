@@ -31,6 +31,10 @@ Foliensatz [Slides_3D_AR](Slides_3D_AR.pdf)
 - Übung zu 3D Bildverarbeitung in Python: Beispiel 6
 - Augmented Reality 
 
+## Übungen zur Prüfungsvorbereitung: 
+
+- Übung 2-5
+
 ## Image Sources 
 
 - [Wikimedia Commons](https://commons.wikimedia.org/)
