@@ -38,6 +38,6 @@ Foliensatz [Slides_3D_AR](Slides_3D_AR.pdf)
 ## Image Sources 
 
 - [Wikimedia Commons](https://commons.wikimedia.org/)
-- [OpenCV github Repository](https://github.com/opencv/opencv/tree/4.x/samples/data)
+- [OpenCV github Repository Data](https://github.com/opencv/opencv/tree/4.x/samples/data) und [OpenCV github Repository](https://github.com/opencv/opencv)
 - generiert mit OpenAI DALLE oder Nano Banana Pro
 - Infografiken generiert mit Nano Banana Pro
